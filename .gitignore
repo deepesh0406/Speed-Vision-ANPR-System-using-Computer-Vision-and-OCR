@@ -1,0 +1,46 @@
+# Folders
+/datasets
+/uploads
+/runs
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Flask
+instance/
+.env
+*.log
+
+# YOLOv8
+yolo_weights/
+*.pt
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Docker
+*.dockerfile
+Dockerfile
+docker-compose.yml
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Miscellaneous
+*.bak
+*.swp
